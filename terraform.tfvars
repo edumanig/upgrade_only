@@ -1,1 +1,1 @@
-controller_custom_version = "3.2"
+controller_custom_version = "3.5"
